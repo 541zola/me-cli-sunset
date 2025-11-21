@@ -15,10 +15,10 @@
             },
             {
                 "family_name": "Conference",
-    "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+    "family_code": "b50cef3e-fcd0-4699-83a9-6f5740b7ef31",
     "is_enterprise": true,
     "migration_type": "PRIOH_TO_PRIO",
-    "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+    "variant_code": "c2271e07-1016-4164-93fb-03bae708f016",
                 "option_name": "EWALLET 1.2k",
                 "order": 1
             }
