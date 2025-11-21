@@ -14,12 +14,11 @@
                 "order": 31
             },
             {
-                "family_name": "QRIS D 0",
-                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
-                "is_enterprise": true,
-                "migration_type": "NONE",
-                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
-                "option_name": "QRIS D 0",
+                "family_name": "Newcomer Promo",
+        "family_code": "6bc5a34d-7901-4bf9-8629-5bd7de28c89f",
+        "is_enterprise": false,
+        "variant_name": "Xtra Combo",
+        "option_name": "1GB + 1GB",
                 "order": 1
             }
         ],
