@@ -14,11 +14,12 @@
                 "order": 31
             },
             {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "family_name": "Akrab",
+                "family_code": "f4fd69c7-12a4-4047-a1f2-f4072a7c543e",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "variant_name": "Akrab",
+                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
                 "option_name": "EWALLET 1.2k",
                 "order": 1
             }
