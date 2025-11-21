@@ -14,12 +14,12 @@
                 "order": 31
             },
             {
-                "family_name": "Akrab",
-                "family_code": "23b71540-8785-4abe-816d-e9b4efa48f95",
+                "family_name": "",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
                 "is_enterprise": false,
                 "migration_type": "NONE",
-                "variant_name": "Akrab",
-                "variant_code": "555a091d-b1eb-43c2-925f-3da485fecf5f",
+                "variant_name": "",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
                 "option_name": "EWALLET 1.2k",
                 "order": 1
             }
